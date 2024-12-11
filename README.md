@@ -7,6 +7,6 @@
 - Facto divertido: ...
 
 <!---
-Bezalielmn/Bezalielmn é um repositório especial porque o seu README.md (este ficheiro) aparece no seu perfil GitHub.
+Bzaliel/Bzaliel é um repositório especial porque o seu README.md (este ficheiro) aparece no seu perfil GitHub.
 Pode clicar no link Preview para ver as suas alterações.
 --->
